@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/laragon/www/PracticaAnsible/html","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/laragon/www/PracticaAnsible","disabled":false,"__vagrantfile":true}}}
